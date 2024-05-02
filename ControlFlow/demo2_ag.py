@@ -1,5 +1,13 @@
-n1 = float(input())
-n2 = float(input())
-n3 = float(input())
-total = n1+n2+n3
-print("The sum of",n1, n2,"and",n3,"is", total)
+'''ODD NUMBERS USING LOOP'''
+i=0
+while i<=500:
+    if i % 2 != 0:
+        print(i)
+    i=i+1
+
+
+'''EVEN NUMBERS USING LOOP'''
+i=0
+while i<=500:
+    print(i)
+    i = i+2
