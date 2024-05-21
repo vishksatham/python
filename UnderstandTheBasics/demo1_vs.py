@@ -9,6 +9,7 @@ number = int(input("Enter a number: "))
 factorial = int(number)
 
 if(number <= 0):
+    
     print("Factorial cannot be computed")
 
 else:

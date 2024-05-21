@@ -12,6 +12,7 @@ while True:
     if(userIn != 'done'):
 
         num = int(userIn) 
+        
         nums.append(num)
 
     elif userIn == 'done':

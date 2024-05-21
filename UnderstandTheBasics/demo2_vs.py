@@ -10,6 +10,7 @@ x = random.randint(1, 10)
 counter = 0
 
 
+
 while True:
 
     y = int(input("Guess a number between 1 and 10: "))
